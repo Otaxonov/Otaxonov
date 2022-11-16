@@ -5,10 +5,16 @@
 
 - 🌱 I’m currently learning **Django Channels**
 
+- 💬 Ask me about **Python, Django**
+
+- 📫 How to reach me **Otaxonov_98@mail.ru**
+
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/dc_the_dark_knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dc_the_dark_knight" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cyberspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberspace" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otaxonov&show_icons=true&locale=en" alt="otaxonov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otaxonov&" alt="otaxonov" /></p>
+
